@@ -284,8 +284,6 @@ This project is primarily an experimental implementation for exploring:
 
 It can serve as a starting point for a more complete AI-assisted frontend code review or accessibility analysis system.
 
----
-
 ## Disclaimer
 
 This is an experimental project. LLM-generated code suggestions should be reviewed and tested before being used in production environments.
