@@ -8,8 +8,6 @@ The workflow is built with **LangGraph** and organizes LLM calls into three sequ
 
 The notebook includes example prompts related to malformed HTML, CSS styling, color-contrast accessibility, and heading hierarchy.
 
----
-
 ## Overview
 
 The project demonstrates a simple state-based multi-agent architecture in which a user query is passed through multiple LLM roles.
@@ -283,8 +281,6 @@ This project is primarily an experimental implementation for exploring:
 - Web accessibility support
 
 It can serve as a starting point for a more complete AI-assisted frontend code review or accessibility analysis system.
-
----
 
 ## Disclaimer
 
